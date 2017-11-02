@@ -1,8 +1,8 @@
 # PHYS220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** Christine Outlaw, Baylee Mumma, Kristen Peet
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-09-baylee-christine-kristen.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-09-baylee-christine-kristen)
 
 ## Specification
 
@@ -21,7 +21,7 @@ This week, you will explore the differences between ```python/numpy``` and the e
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+The interface for MATLAB was useful to see the variables defined throughout the file. However, the syntax for MATLAB is odd now that we've gotten used to the simplicity of Python.
 
 ## Honor Pledge
 
@@ -32,4 +32,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Christine Outlaw, Baylee Mumma, Kristen Peet
